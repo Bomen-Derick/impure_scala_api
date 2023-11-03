@@ -8,6 +8,6 @@ Akka HTTP
 Slick
 Circe
 Refined
-PureConfig
+typesafe config
 PostgreSQL
 
